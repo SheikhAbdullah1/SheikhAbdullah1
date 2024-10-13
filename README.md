@@ -22,16 +22,12 @@
  <td align='center' width="200">
         <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
     </td>
- 
-</tr>
- 
-<tr>    
     <td align='center'>
         <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg">
     </td>
-    <td align='center'>
+<!--     <td align='center'>
         <img src="https://firebasestorage.googleapis.com/v0/b/foodapp-lqii.appspot.com/o/internee.pk%20raphics%2Fmain-qimg-28cadbd02699c25a88e5c78d73c7babc.webp?alt=media&token=e03aae20-c058-41a3-942b-162fdc622bd5">
-    </td>
+    </td> -->
 </tr>
  
 
