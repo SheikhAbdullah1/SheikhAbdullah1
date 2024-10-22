@@ -30,11 +30,11 @@
 </tr>
 </table>
 </p>
-<p align="center">
+<!-- <p align="center">
 <a href="https://www.linkedin.com/in/sheikhabdullah01/"><img src="https://firebasestorage.googleapis.com/v0/b/images-394d7.appspot.com/o/linkedin.svg?alt=media&token=07b54677-198f-4dcf-9210-e96c8541f382?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="mailto:abdullahhussain0501@gmail.com"><img src="https://firebasestorage.googleapis.com/v0/b/images-394d7.appspot.com/o/git.svg?alt=media&token=51db8319-8483-44fd-b37d-aea3e78f928c?style=flat&logo=Instagram&logoColor=white"/></a>
-<!-- <a href="https://www.instagram.com/hammad2980/"><img src="https://img.shields.io/badge/-@hammad2980-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> -->
- </p>
+<a href="https://www.instagram.com/hammad2980/"><img src="https://img.shields.io/badge/-@hammad2980-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+ </p> -->
  
 <br>
 
