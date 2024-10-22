@@ -6,12 +6,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
 </head>
-    <body>
+<body>
         <div align="center">
             <h1> Hi there, I'm Sheikh Abdullah Hussain👋 <a href="https://https://github.com/SheikhAbdullah1/"></h1>
         </div>
         <p align="center">
-            <a href="https://https://github.com/SheikhAbdullah1/"><img src="https://readme-typing-svg.herokuapp.com/?lines=Fronted+and+Web+Developer;Gen+Ai+Chatbot+Developer&font=Roboto&size=26&duration=3500&pause=500&center=true&width=500&height=50&color=eab676"></a>
+            <a href="[https://github.com/hammad-air](https://https://github.com/SheikhAbdullah1/)"><img
+                    src="https://readme-typing-svg.herokuapp.com/?lines=Fronted+and+Web+Developer;Gen+Ai+Chatbot+Developer&font=Roboto&size=26&duration=3500&pause=500&center=true&width=500&height=50&color=eab676"></a>
         <h2>Tech Stack</h2>
         <table width="100">
             <tr>
@@ -41,6 +42,8 @@
                 <td align='center' width="200">
                     <img src="https://www.svgrepo.com/show/353648/dialogflow.svg" width="100">
                 </td>
+            </tr>
+            <tr>
                 <td align='center' width="200">
                     <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
                 </td>
@@ -52,6 +55,6 @@
       <a href="mailto:abdullahhussain0501@gmail.com"><img src="https://firebasestorage.googleapis.com/v0/b/images-394d7.appspot.com/o/git.svg?alt=media&token=51db8319-8483-44fd-b37d-aea3e78f928c?style=flat&logo=Instagram&logoColor=white"/></a>
       <a href="https://www.instagram.com/hammad2980/"><img src="https://img.shields.io/badge/-@hammad2980-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
        </p> -->
+        <!-- <br> -->
     </body>
-
 </html>
