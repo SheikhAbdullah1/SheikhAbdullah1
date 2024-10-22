@@ -19,7 +19,7 @@
                     <img src="https://firebasestorage.googleapis.com/v0/b/images-394d7.appspot.com/o/Html_logo.png?alt=media&token=fac7ed97-6ac4-4828-8db5-76a5a5ae7799">
                 </td>
                 <td align='center'>
-                    <img src="https:https://firebasestorage.googleapis.com/v0/b/images-394d7.appspot.com/o/css_logo.png?alt=media&token=0c748291-09cc-417d-849b-fb3b5c46a767">
+                    <img src="https://firebasestorage.googleapis.com/v0/b/images-394d7.appspot.com/o/css_logo.png?alt=media&token=0c748291-09cc-417d-849b-fb3b5c46a767">
                 </td>
                 <td align='center'>
                     <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg">
