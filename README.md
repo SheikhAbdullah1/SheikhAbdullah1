@@ -19,7 +19,7 @@
                     <img src="https://firebasestorage.googleapis.com/v0/b/images-394d7.appspot.com/o/Html_logo.png?alt=media&token=fac7ed97-6ac4-4828-8db5-76a5a5ae7799">
                 </td>
                 <td align='center'>
-                    <img src="https://firebasestorage.googleapis.com/v0/b/images-394d7.appspot.com/o/css_logo.png?alt=media&token=0c748291-09cc-417d-849b-fb3b5c46a767">
+                    <img src="https:https://firebasestorage.googleapis.com/v0/b/images-394d7.appspot.com/o/css_logo.png?alt=media&token=0c748291-09cc-417d-849b-fb3b5c46a767">
                 </td>
                 <td align='center'>
                     <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg">
@@ -43,6 +43,9 @@
                 </td>
                 <td align='center' width="200">
                     <img src="https://www.svgrepo.com/show/353648/dialogflow.svg" width="100">
+                </td>
+                <td align='center' width="200">
+                    <img src="https://firebasestorage.googleapis.com/v0/b/images-394d7.appspot.com/o/kommunicate-logo.png?alt=media&token=e2ea548f-bb79-4920-917d-0773f24cb583" width="100">
                 </td>
             </tr>
         </table>
