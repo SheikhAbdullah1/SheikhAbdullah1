@@ -31,8 +31,8 @@
 </table>
 </p>
 <p align="center">
-<a href="https://www.linkedin.com/in/sheikhabdullah01/"><img src="[https://img.shields.io/badge/-@hammad2980-E4405F](https://firebasestorage.googleapis.com/v0/b/images-394d7.appspot.com/o/linkedin.png?alt=media&token=6bcf3357-f094-4779-9607-d5bc33639a95)?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="mailto:abdullahhussain0501@gmail.com"><img src="[https://img.shields.io/badge/-@hammad2980-E4405F](https://firebasestorage.googleapis.com/v0/b/images-394d7.appspot.com/o/logo_gmail.png?alt=media&token=56468ef6-05c7-46a7-86e0-8eda2135f0d2)?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/sheikhabdullah01/"><img src="https://firebasestorage.googleapis.com/v0/b/images-394d7.appspot.com/o/linkedin.png?alt=media&token=6bcf3357-f094-4779-9607-d5bc33639a95)?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="mailto:abdullahhussain0501@gmail.com"><img src="https://firebasestorage.googleapis.com/v0/b/images-394d7.appspot.com/o/logo_gmail.png?alt=media&token=56468ef6-05c7-46a7-86e0-8eda2135f0d2)?style=flat&logo=Instagram&logoColor=white"/></a>
 <!-- <a href="https://www.instagram.com/hammad2980/"><img src="https://img.shields.io/badge/-@hammad2980-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> -->
  </p>
  
