@@ -27,6 +27,9 @@
     <td align='center'>
         <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg">
     </td>
+    <td align='center'>
+        <img src="https://firebasestorage.googleapis.com/v0/b/images-394d7.appspot.com/o/react_native_logo.png?alt=media&token=91bb96d5-8aa7-438c-87ec-490dfe64860a">
+    </td>
 </tr>
 </table>
 </p>
