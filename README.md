@@ -11,7 +11,7 @@
             <h1> Hi there, I'm Sheikh Abdullah Hussain👋 <a href="https://https://github.com/SheikhAbdullah1/"></h1>
         </div>
         <p align="center">
-            <a href="[https://github.com/hammad-air](https://https://github.com/SheikhAbdullah1/)"><img src="https://readme-typing-svg.herokuapp.com/?lines=Fronted+and+Web+Developer;Gen+Ai+Chatbot+Developer&font=Roboto&size=26&duration=3500&pause=500&center=true&width=500&height=50&color=eab676"></a>
+            <a href="https://https://github.com/SheikhAbdullah1/"><img src="https://readme-typing-svg.herokuapp.com/?lines=Fronted+and+Web+Developer;Gen+Ai+Chatbot+Developer&font=Roboto&size=26&duration=3500&pause=500&center=true&width=500&height=50&color=eab676"></a>
         <h2>Tech Stack</h2>
         <table width="100">
             <tr>
@@ -27,11 +27,11 @@
                 <td align='center'>
                     <img src="https://firebasestorage.googleapis.com/v0/b/images-394d7.appspot.com/o/BS_logo.png?alt=media&token=92ca65a0-92a4-4c35-928e-e0b8232c2330">
                 </td>
+            </tr>
+            <tr>
                 <td align='center'>
                     <img src="https:https://firebasestorage.googleapis.com/v0/b/images-394d7.appspot.com/o/css_logo.png?alt=media&token=0c748291-09cc-417d-849b-fb3b5c46a767">
                 </td>
-            </tr>
-            <tr>
                 <td align='center' width="200">
                     <img src="https://firebasestorage.googleapis.com/v0/b/foodapp-lqii.appspot.com/o/internee.pk%20raphics%2Fopenai-chatgpt-logo-icon-free-png.webp?alt=media&token=7f1e7f67-d80a-4e04-9d39-c37007c3f547">
                 </td>
