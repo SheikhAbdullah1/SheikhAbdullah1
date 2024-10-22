@@ -31,8 +31,8 @@
 </table>
 </p>
 <p align="center">
-<a href="https://www.linkedin.com/in/sheikhabdullah01/"><img src="https://img.shields.io/badge/-Hammad%20Sheikh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:abdullahhussain0501@gmail.com"><img src="https://img.shields.io/badge/-hammadn788@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/sheikhabdullah01/">sheikh Abdullah</a>
+<a href="mailto:abdullahhussain0501@gmail.com">email</a>
 <!-- <a href="https://www.instagram.com/hammad2980/"><img src="https://img.shields.io/badge/-@hammad2980-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> -->
  </p>
  
