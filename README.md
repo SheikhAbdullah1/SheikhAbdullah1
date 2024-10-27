@@ -19,11 +19,11 @@
                 <td align='center'>
                     <img src="https://firebasestorage.googleapis.com/v0/b/images-394d7.appspot.com/o/BS_logo.png?alt=media&token=92ca65a0-92a4-4c35-928e-e0b8232c2330">
                 </td>
-            </tr>
-            <tr>
                 <td align='center' width="200">
                     <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
                 </td>
+            </tr>
+            <tr>
                 <td align='center'>
                     <img src="https://firebasestorage.googleapis.com/v0/b/images-394d7.appspot.com/o/react_native_logo.png?alt=media&token=91bb96d5-8aa7-438c-87ec-490dfe64860a">
                 </td>
@@ -33,9 +33,7 @@
                 <td align='center' width="200">
                     <img src="https://firebasestorage.googleapis.com/v0/b/foodapp-lqii.appspot.com/o/internee.pk%20raphics%2Fgoogle-ai-gemini91216.logowik.com.webp?alt=media&token=2e4ad51e-4dec-4382-927b-0c2fdf5faa46">
                 </td>
-            </tr>
-                <tr>
-                                        <td align='center' width="200">
+                <td align='center' width="200">
                     <img src="https://www.svgrepo.com/show/353648/dialogflow.svg" width="100">
                 </td>
                 <td align='center' width="200">
