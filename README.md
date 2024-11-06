@@ -5,7 +5,7 @@
         <p align="center">
             <a href="https://https://github.com/SheikhAbdullah1/"><img src="https://readme-typing-svg.herokuapp.com/?lines=Fronted+and+Web+Developer;Gen+Ai+Chatbot+Developer&font=Roboto&size=26&duration=3500&pause=500&center=true&width=500&height=50&color=eab676"></a>
         <h2>Tech Stack</h2>
-        <table width="100">
+        <table width="100%">
             <tr>
                 <td align='center'>
                     <img src="https://firebasestorage.googleapis.com/v0/b/images-394d7.appspot.com/o/Html_logo.png?alt=media&token=fac7ed97-6ac4-4828-8db5-76a5a5ae7799">
