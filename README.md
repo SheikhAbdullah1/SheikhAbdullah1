@@ -27,20 +27,20 @@
                 <td align='center'>
                     <img src="https://firebasestorage.googleapis.com/v0/b/images-394d7.appspot.com/o/react_native_logo.png?alt=media&token=91bb96d5-8aa7-438c-87ec-490dfe64860a">
                 </td>
+               <td align='center' width="200">
+                                <img src="https://firebasestorage.googleapis.com/v0/b/images-394d7.appspot.com/o/kommunicate-logo.png?alt=media&token=e2ea548f-bb79-4920-917d-0773f24cb583" width="100">
+                        </td>
+                       <td align='center' width="200">
+                            <img src="https://www.svgrepo.com/show/353648/dialogflow.svg" width="100">
+                                </td>
+                </tr>
+                <tr>   
                 <td align='center' width="200">
                     <img src="https://firebasestorage.googleapis.com/v0/b/foodapp-lqii.appspot.com/o/internee.pk%20raphics%2Fopenai-chatgpt-logo-icon-free-png.webp?alt=media&token=7f1e7f67-d80a-4e04-9d39-c37007c3f547">
                 </td>
                 <td align='center' width="200">
                     <img src="https://firebasestorage.googleapis.com/v0/b/foodapp-lqii.appspot.com/o/internee.pk%20raphics%2Fgoogle-ai-gemini91216.logowik.com.webp?alt=media&token=2e4ad51e-4dec-4382-927b-0c2fdf5faa46">
                 </td>
-                </tr>
-                <tr>
-                        <td align='center' width="200">
-                                <img src="https://firebasestorage.googleapis.com/v0/b/images-394d7.appspot.com/o/kommunicate-logo.png?alt=media&token=e2ea548f-bb79-4920-917d-0773f24cb583" width="100">
-                        </td>
-                       <td align='center' width="200">
-                            <img src="https://www.svgrepo.com/show/353648/dialogflow.svg" width="100">
-                                </td>
                 </tr>
         </table>
         </p>
